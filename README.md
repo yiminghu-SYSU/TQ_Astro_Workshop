@@ -18,3 +18,24 @@ For more information about TianQin, you can visit [the official website of TianQ
 
 You can also check out [the mission proposal paper](https://github.com/yiminghu-SYSU/TQ_Astro_Workshop/blob/main/InfoTianQin/Luo_2016_Class._Quantum_Grav._33_035010.pdf) or [the official paper on recent progress](https://github.com/yiminghu-SYSU/TQ_Astro_Workshop/blob/main/InfoTianQin/Mei_ptaa114.pdf)
 
+## Collected Questions 
+
+Xian Chen:
+1. The ability/advantage of TianQin to detect eccentric stellar-mass binary black holes 
+2. Improvement of sky localization by joint observation with LISA
+3. The benefit of increasing the observation duration of a source if TianQin and LISA are launched at different times and not have any overlap
+Tong Liu:
+How TianQin can reshape our understanding of star collapse through TianQin's observation of nearby outbursts like supernovae, GRB, etc. 
+
+Yong Shao:
+1. Can we plot figures similar to those in arXiv:2203.06016 and arXiv:2111.08717 that clearly show the horizon distance for different types of TianQin sorces
+2. Is a SNR threshold of 5 appropriate for galactic BBHs as suggested by Huang et al (2020)
+
+Valeriya Korol:
+1. What approach is TianQin planning to undertake for the data analysis
+2. What precision in the parameter estimation of binaries can we expect for TianQin 
+
+Long Wang:
+1. What is the ability of TianQin to detect binary black hole mergers and measure their parameters
+2. Is TianQin planning to collaborate with ground-based detectors for multiband observations
+
