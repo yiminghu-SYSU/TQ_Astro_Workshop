@@ -1,5 +1,7 @@
 # TianQin astronomy workshop
 
+![Poster](Agenda/poster.jpg)
+
 ## Background:
 This site is aim to host necessary information for the TianQin astronomy workshop for 22nd-25th August, 2022.
 
