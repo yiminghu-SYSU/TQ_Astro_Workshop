@@ -18,10 +18,10 @@ For more information about TianQin, you can visit [the official website of TianQ
 
 You can also check out [the mission proposal paper](InfoTianQin/Luo_2016_Class._Quantum_Grav._33_035010.pdf) or [the official paper on recent progress](InfoTianQin/Mei_ptaa114.pdf)
 
-We have collected slides from presenters and we encourage all to [take a look](https://github.com/yiminghu-SYSU/TQ_Astro_Workshop/tree/main/slides) before the discussion. 
+We have collected slides from presenters and we encourage all to [take a look](slides) before the discussion. 
 We also asked presenters to share a number of open questions, they are summarised in the end.
 
-The [InfoTianQin](https://github.com/yiminghu-SYSU/TQ_Astro_Workshop/tree/main/InfoTianQin) directory contains useful materials about TianQin.
+The [InfoTianQin](InfoTianQin) directory contains useful materials about TianQin.
 We encourage our astronomer friends to have a glance.
 
 ## Collected Questions 
