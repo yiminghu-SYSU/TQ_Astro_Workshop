@@ -1,6 +1,7 @@
 # TianQin astronomy workshop
 
 ![Poster](Agenda/poster.jpg)
+The official website page in TianQin center is [here](https://tianqin.sysu.edu.cn/event/480), however, this github page contains more useful materials.
 
 ## Background:
 This site is aim to host necessary information for the TianQin astronomy workshop for 22nd-25th August, 2022.
