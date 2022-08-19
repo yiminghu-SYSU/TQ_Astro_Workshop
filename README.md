@@ -51,3 +51,4 @@ Long Wang:
 
 ## Link to the call
 Please go to the [Agenda page](Agenda) for the links of the workshop. Be aware that the link changes on a daily base so talks on different days have different links.
+![agenda](Agenda/agenda.png)
