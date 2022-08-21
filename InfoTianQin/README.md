@@ -14,4 +14,5 @@ This directory contains useful materials about TianQin.
 ![Range_vs_mass_addMBH4.png](Range_vs_mass_addMBH4.png) 
 [Range_vs_mass_addMBH4.png](Range_vs_mass_addMBH4.png) shows the horizon distance versus chirp mass (assuming quasi-circular orbit, setting mass ratio equals to 1). It was published in [Hu et al. Natl.Sci.Rev. 4 (2017) 5, 683-684] (https://inspirehep.net/literature/1712805) (please cite when applicable).
 
-I'll upload TQ ASD files later.
+The "TQ_ASD*.txt" files corresponds to the ASD of TianQin.
+SkyAverage means that the average of antenna pattern over the whole sky (a factor of 1/5) is adopted so is more conservative.
