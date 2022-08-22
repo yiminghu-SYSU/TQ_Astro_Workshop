@@ -49,6 +49,10 @@ Long Wang:
 1. What is the ability of TianQin to detect binary black hole mergers and measure their parameters
 2. Is TianQin planning to collaborate with ground-based detectors for multiband observations
 
+Tong Liu:
+1. How TianQin can reshape our understanding of star collapse through TianQin's observation of nearby outbursts like supernovae, GRB, etc. 
+
+
 ## Link to the call
 Please go to the [Agenda page](Agenda) for the links of the workshop. Be aware that the link changes on a daily base so talks on different days have different links.
 ![agenda](Agenda/agenda.png)
