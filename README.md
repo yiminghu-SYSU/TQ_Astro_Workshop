@@ -36,7 +36,7 @@ Xian Chen:
 3. The benefit of increasing the observation duration of a source if TianQin and LISA are launched at different times and not have any overlap
 
 Tong Liu:
-How TianQin can reshape our understanding of star collapse through TianQin's observation of nearby outbursts like supernovae, GRB, etc. 
+1. How TianQin can reshape our understanding of star collapse through TianQin's observation of nearby outbursts like supernovae, GRB, etc. 
 
 Yong Shao:
 1. Can we plot figures similar to those in arXiv:2203.06016 and arXiv:2111.08717 that clearly show the horizon distance for different types of TianQin sorces
