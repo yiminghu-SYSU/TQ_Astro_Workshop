@@ -34,6 +34,7 @@ Xian Chen:
 1. The ability/advantage of TianQin to detect eccentric stellar-mass binary black holes 
 2. Improvement of sky localization by joint observation with LISA
 3. The benefit of increasing the observation duration of a source if TianQin and LISA are launched at different times and not have any overlap
+
 Tong Liu:
 How TianQin can reshape our understanding of star collapse through TianQin's observation of nearby outbursts like supernovae, GRB, etc. 
 
@@ -48,9 +49,6 @@ Valeriya Korol:
 Long Wang:
 1. What is the ability of TianQin to detect binary black hole mergers and measure their parameters
 2. Is TianQin planning to collaborate with ground-based detectors for multiband observations
-
-Tong Liu:
-1. How TianQin can reshape our understanding of star collapse through TianQin's observation of nearby outbursts like supernovae, GRB, etc. 
 
 
 ## Link to the call
