@@ -50,6 +50,12 @@ Long Wang:
 1. What is the ability of TianQin to detect binary black hole mergers and measure their parameters
 2. Is TianQin planning to collaborate with ground-based detectors for multiband observations
 
+Enrico Barausse:
+1. Can we decrease the uncertainty on the predicted MBH merger rate? Use EM observations to constrain astro models?  
+2. Synergies with PTA/ground based?
+3. How well can the MBHB eccentricity be constrained? Can we develop sufficiently accurate eccentric waveforms?
+4. Can we discriminate between astro models for MBHs?
+
 
 ## Link to the call
 Please go to the [Agenda page](Agenda) for the links of the workshop. Be aware that the link changes on a daily base so talks on different days have different links.
